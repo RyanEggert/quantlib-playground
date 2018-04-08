@@ -94,3 +94,7 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+### .idea
+# Just ignore all of .idea/ directory.
+.idea/
